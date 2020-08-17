@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="45" started-at="2020-08-17T08:09:34Z" finished-at="2020-08-17T08:09:34Z">
+  <suite name="Default suite" duration-ms="42" started-at="2020-08-17T12:00:57Z" finished-at="2020-08-17T12:00:57Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="45" started-at="2020-08-17T08:09:34Z" finished-at="2020-08-17T08:09:34Z">
-      <class name="com.qa.tests.Verify_Search_Page">
-        <test-method status="PASS" signature="Search_Page()[pri:0, instance:com.qa.tests.Verify_Search_Page@39c0f4a]" name="Search_Page" duration-ms="16" started-at="2020-08-17T08:09:34Z" finished-at="2020-08-17T08:09:34Z">
+    <test name="Default test" duration-ms="42" started-at="2020-08-17T12:00:57Z" finished-at="2020-08-17T12:00:57Z">
+      <class name="com.qa.tests.ContactPage">
+        <test-method status="PASS" signature="Contacts_Page()[pri:0, instance:com.qa.tests.ContactPage@39c0f4a]" name="Contacts_Page" duration-ms="10" started-at="2020-08-17T12:00:57Z" finished-at="2020-08-17T12:00:57Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- Search_Page -->
-      </class> <!-- com.qa.tests.Verify_Search_Page -->
+        </test-method> <!-- Contacts_Page -->
+      </class> <!-- com.qa.tests.ContactPage -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
